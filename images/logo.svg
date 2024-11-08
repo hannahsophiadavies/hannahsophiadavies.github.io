@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="96" height="21">
-<path d="M0 0 C0.99 0 1.98 0 3 0 C3 1.98 3 3.96 3 6 C5.31 6 7.62 6 10 6 C10 4.02 10 2.04 10 0 C10.99 0 11.98 0 13 0 C13 4.95 13 9.9 13 15 C12.01 15 11.02 15 10 15 C10 12.69 10 10.38 10 8 C7.69 8 5.38 8 3 8 C3 10.31 3 12.62 3 15 C2.01 15 1.02 15 0 15 C0 10.05 0 5.1 0 0 Z " fill="#FEF6E5" transform="translate(1,4)"/>
-<path d="M0 0 C2.97 0 5.94 0 9 0 C10.20272819 2.40545638 10.10071472 3.94996953 10.0625 6.625 C10.05347656 7.44226563 10.04445313 8.25953125 10.03515625 9.1015625 C10.02355469 9.72804688 10.01195313 10.35453125 10 11 C8.52093108 11.02689216 7.04172517 11.04634621 5.5625 11.0625 C4.32693359 11.07990234 4.32693359 11.07990234 3.06640625 11.09765625 C1 11 1 11 0 10 C-0.04063832 8.33382885 -0.042721 6.66611905 0 5 C1.32 4.34 2.64 3.68 4 3 C2.68 2.67 1.36 2.34 0 2 C0 1.34 0 0.68 0 0 Z M3 7 C7 8 7 8 7 8 Z " fill="#FEF5E4" transform="translate(54,8)"/>
-<path d="M0 0 C2.97 0 5.94 0 9 0 C10.20272819 2.40545638 10.10071472 3.94996953 10.0625 6.625 C10.05347656 7.44226563 10.04445313 8.25953125 10.03515625 9.1015625 C10.02355469 9.72804688 10.01195312 10.35453125 10 11 C8.52093108 11.02689216 7.04172517 11.04634621 5.5625 11.0625 C4.32693359 11.07990234 4.32693359 11.07990234 3.06640625 11.09765625 C1 11 1 11 0 10 C-0.04063832 8.33382885 -0.042721 6.66611905 0 5 C1.32 4.34 2.64 3.68 4 3 C2.68 2.67 1.36 2.34 0 2 C0 1.34 0 0.68 0 0 Z M3 7 C7 8 7 8 7 8 Z " fill="#FEF5E4" transform="translate(16,8)"/>
-<path d="M0 0 C0.99 0 1.98 0 3 0 C3 1.65 3 3.3 3 5 C3.969375 4.979375 4.93875 4.95875 5.9375 4.9375 C9 5 9 5 10 6 C10.07205511 7.68608966 10.08386068 9.37500659 10.0625 11.0625 C10.05347656 11.98160156 10.04445313 12.90070312 10.03515625 13.84765625 C10.02355469 14.55792969 10.01195313 15.26820312 10 16 C9.34 16 8.68 16 8 16 C7.67 13.69 7.34 11.38 7 9 C5.68 8.67 4.36 8.34 3 8 C3 10.64 3 13.28 3 16 C2.01 16 1.02 16 0 16 C0 10.72 0 5.44 0 0 Z " fill="#FEF5E4" transform="translate(66,3)"/>
-<path d="M0 0 C6.93359375 -0.09765625 6.93359375 -0.09765625 9 0 C10 1 10 1 10.09765625 3.28515625 C10.08605469 4.20167969 10.07445312 5.11820313 10.0625 6.0625 C10.05347656 6.98160156 10.04445313 7.90070312 10.03515625 8.84765625 C10.02355469 9.55792969 10.01195312 10.26820312 10 11 C9.34 11 8.68 11 8 11 C7.67 8.69 7.34 6.38 7 4 C5.68 3.67 4.36 3.34 3 3 C3 5.64 3 8.28 3 11 C2.01 11 1.02 11 0 11 C0 7.37 0 3.74 0 0 Z " fill="#FEF5E4" transform="translate(41,8)"/>
-<path d="M0 0 C6.93359375 -0.09765625 6.93359375 -0.09765625 9 0 C10 1 10 1 10.09765625 3.28515625 C10.08605469 4.20167969 10.07445312 5.11820313 10.0625 6.0625 C10.05347656 6.98160156 10.04445313 7.90070312 10.03515625 8.84765625 C10.02355469 9.55792969 10.01195312 10.26820312 10 11 C9.34 11 8.68 11 8 11 C7.67 8.69 7.34 6.38 7 4 C5.68 3.67 4.36 3.34 3 3 C3 5.64 3 8.28 3 11 C2.01 11 1.02 11 0 11 C0 7.37 0 3.74 0 0 Z " fill="#FEF5E4" transform="translate(28,8)"/>
-<path d="M0 0 C0.99 0 1.98 0 3 0 C3 0.99 3 1.98 3 3 C2.01 3 1.02 3 0 3 C0 2.01 0 1.02 0 0 Z " fill="#FDF5E4" transform="translate(80,16)"/>
-<path d="M0 0 C0.66 0 1.32 0 2 0 C2 0.66 2 1.32 2 2 C1.34 2 0.68 2 0 2 C0 1.34 0 0.68 0 0 Z " fill="#FEF5E3" transform="translate(86,11)"/>
-<path d="M0 0 C3 1 3 1 3 1 Z " fill="#FFF5E4" transform="translate(92,15)"/>
-<path d="M0 0 C0.66 0.66 1.32 1.32 2 2 C1.34 2 0.68 2 0 2 C0 1.34 0 0.68 0 0 Z " fill="#FEF5E3" transform="translate(85,7)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="ce43547f-5a99-4a97-a0a8-fdfddc793d93"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="0ad355a6-cfc6-45a0-9eb1-296e46f4ab85"  >
+</g>
+<g transform="matrix(1 0 0 1 540.5 540.5)" style="" id="d682aca6-fea6-452d-84e3-8eaa0e2dd5ba"  >
+		<text xml:space="preserve" font-family="Raleway" font-size="105" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-212.99" y="32.98" >Hannah.</tspan></text>
+</g>
 </svg>
